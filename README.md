@@ -9,5 +9,3 @@ pipenv install
 
 python3 scraper.py
 ```
-
-##### Made with ❤️ by Leandro Arturi
